@@ -4,4 +4,4 @@ This is a simple readme file
 
 # modify tracked file
 
-Hope this won't bad
+This is intended to cause conflict 
